@@ -8,11 +8,11 @@ Abstract—*This paper proposes a CNN classification  network based on Bagging a
 
 This is the Confusion Matrix: 
 
-![](F:\Peicheng Wu\科研\论文\papers\code\img\Figure_10.png)
+![](./img/Figure_10.png)
 
 In this method, we use simple CNN models as sub-models:
 
-![](F:\Peicheng Wu\科研\论文\papers\code\img\Figure_3.png)
+![](.\img\Figure_3.png)
 
 As we can see after roughly 30 epoch, overfitting appears:
 
@@ -20,7 +20,7 @@ As we can see after roughly 30 epoch, overfitting appears:
 
 Then we trained 15 sub-models to enhance the network performance:
 
-![](F:\Peicheng Wu\科研\论文\papers\code\img\Figure_9.png)
+![](.\img\Figure_9.png)
 
 ## Requirements:
 
