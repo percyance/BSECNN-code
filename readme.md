@@ -12,15 +12,15 @@ This is the Confusion Matrix:
 
 In this method, we use simple CNN models as sub-models:
 
-![](.\img\Figure_3.png)
+![](./img/Figure_3.png)
 
 As we can see after roughly 30 epoch, overfitting appears:
 
-![](F:\Peicheng Wu\科研\论文\papers\code\img\Figure_1+2.png)
+![](./img/Figure_1+2.png)s
 
 Then we trained 15 sub-models to enhance the network performance:
 
-![](.\img\Figure_9.png)
+![](./img/Figure_9.png)
 
 ## Requirements:
 
